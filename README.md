@@ -24,6 +24,4 @@ Whether it's building SaaS platforms, engineering agentic workflows, or explorin
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=AI%20%26%20Misc%20Tools&align=start&titleAlign=start&theme=github_dark&width=400&lineCount=2&line1=PyTorch,pytorch,auto;n8n,N8N,auto;Git,git,auto;&line2=Swagger,swagger,auto;PlayWright,playwright,auto;Jest,jest,auto;" alt="AI and Misc Tools" width="49%"/>
 </div>
 
-<br>
-
-<img src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?bannerColor=%23ffffff&width=2500&height=200&color=%23175cdbaa&backgroundColor=%2300000000&waveHeight=20&waveComplexity=1&waveAmount=5" />
+<img src="./assets/footer.svg" width="100%" alt="" />

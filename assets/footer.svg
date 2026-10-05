@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="64" viewBox="0 0 840 64" fill="none">
+  <title>Code divider</title>
+  <defs>
+    <linearGradient id="left" x1="8" y1="32" x2="356" y2="32" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58a6ff" stop-opacity="0" />
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0.5" />
+    </linearGradient>
+    <linearGradient id="right" x1="484" y1="32" x2="832" y2="32" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58a6ff" stop-opacity="0.5" />
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <path d="M8 32H356" stroke="url(#left)" />
+  <path d="M484 32H832" stroke="url(#right)" />
+  <g fill="#58a6ff" fill-opacity="0.7">
+    <circle cx="356" cy="32" r="2.5" />
+    <circle cx="484" cy="32" r="2.5" />
+  </g>
+  <g stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M402 22L390 32L402 42" />
+    <path d="M426 18L414 46" />
+    <path d="M438 22L450 32L438 42" />
+  </g>
+</svg>
